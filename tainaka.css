@@ -5,3 +5,7 @@ body {background-color:#f8f8ff;}
 h1{font-size: 40px;}
 .headline { color: white; background:#006400;width: 1254px;
 	          padding:20px 0px 15px 10px;margin-bottom: 10px}
+
+.cook img{width:300px;height:400px;margin-left: 120px;margin-top: 50px;}
+
+a:hover img{transform: translateY(0.5em);}
